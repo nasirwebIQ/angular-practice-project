@@ -10,3 +10,14 @@
         font-size: 1rem;
     }
 }
+.text-danger{
+    color: red;
+    font-size: 0.8rem;
+}
+.imageDiv{
+
+ img{
+    height: 3rem;
+    width: 3rem;
+ }
+}
